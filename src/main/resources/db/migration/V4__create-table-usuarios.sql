@@ -1,0 +1,5 @@
+CREATE TABLE usuarios (
+    id BIGSERIAL PRIMARY KEY,
+    usuario VARCHAR(255) NOT NULL,
+    clave VARCHAR(255) NOT NULL
+);
