@@ -38,7 +38,7 @@ Para comenzar con el desarrollo del ForoHub, asegúrate de tener instalados y co
 - Java JDK 17 o superior
 - Maven 4 o superior
 - Spring Boot 3 o superior
-- MySQL 8 o superior (o el sistema de gestión de base de datos de tu elección)
+- PostgreSQL 14.2 o superior (o el sistema de gestión de base de datos de tu elección)
 - IDE IntelliJ IDEA (opcional pero recomendado)
 
 ### Configuración al Crear el Proyecto con Spring Initializr
@@ -58,7 +58,7 @@ Agrega las siguientes dependencias al crear el proyecto con Spring Initializr:
 - Spring Boot DevTools
 - Spring Data JPA
 - Flyway Migration
-- MySQL Driver
+- PostgreSQL Driver
 - Validation
 - Spring Security
 
