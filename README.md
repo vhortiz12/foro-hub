@@ -105,7 +105,7 @@ Agrega las siguientes dependencias al crear el proyecto con Spring Initializr:
     ```
 2. **Navega al directorio del proyecto**:
     ```sh
-    cd challenge-literalura
+    cd foro-hub
     ```
 3. **Compila y ejecuta la aplicación**:
     ```sh
